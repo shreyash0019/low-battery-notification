@@ -61,6 +61,3 @@ Feel free to fork the repo and submit a pull request if you want to add features
 - Sound alerts
 
 ---
-
-
-
